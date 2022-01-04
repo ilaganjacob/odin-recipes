@@ -1,0 +1,16 @@
+* {
+    font-family: "Courier New", Courier, monospace;
+    background-color: #fff;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    margin: auto;
+    list-style: none;
+    margin: 10, 10, 10, 10;
+}
